@@ -58,7 +58,7 @@ max_marks([88,67,77,93,95,11,67,89,56,89])
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![](./find1.png)
+![](find1.png)
 ![](./find2.png)
 ![](./find3.png)
 
